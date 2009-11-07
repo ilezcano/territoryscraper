@@ -14,29 +14,28 @@ my $street = $q->param('street');
 my $zip = $q->param('zip');
 my @phoneduplicates;
 
-my $spanmatch = Regexp::Assemble->new;
-$spanmatch->add(qw(os
-		ez
-		cia
-		era
-		ano
-		ega
-		as
-		ado
-		inos
-		illa
-		raz
-		edo
-		jia
-		bar
-		jas
-		elo
-		gel
-		illo
+my $spanmatch = Regexp::Assemble->new->add(qw(
+		os$
+		ez$
+		cia$
+		era$
+		ano$
+		ega$
+		as$
+		ado$
+		inos$
+		illa$
+		raz$
+		edo$
+		jia$
+		bar$
+		jas$
+		elo$
+		gel$
+		illo$
+		rr
 		)
-			)->anchor_line_end; #Last name endings
-
-$spanmatch->add(qw(rr)); 
+			)->re; #Last name endings
 
 my $r = my $c = my $rm = my $cm = 0; #Rows and Columns for the spreadsheet
 
