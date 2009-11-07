@@ -1,0 +1,1887 @@
+<perldata>
+ <hashref memory_address="0x19e9010">
+  <item key="listings">
+   <arrayref memory_address="0x19e89e0">
+    <item key="0">
+     <hashref memory_address="0x19bc570">
+      <item key="address">
+       <hashref memory_address="0x19bbc28">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">12 Oak St</item>
+        <item key="house">12</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Eva D Kupinska</item>
+      <item key="geodata">
+       <hashref memory_address="0x19bc090">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002564</item>
+        <item key="longitude">-73.668586</item>
+       </hashref>
+      </item>
+      <item key="house">12</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19bc318">
+        <item key="lastvalidated">08/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19bc288">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19bc108">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=12+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002564&amp;long=-73.668586&amp;name=Kupinska&amp;firstname=Eva+D</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19bc168">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=0</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19bc1c8">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=1&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19bc228">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=12+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002564&amp;long=-73.668586&amp;name=Kupinska&amp;firstname=Eva+D&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19bc420">
+        <item key="0">
+         <hashref memory_address="0x19bc390">
+          <item key="firstname">Eva</item>
+          <item key="lastname">Kupinska</item>
+          <item key="middlename">D</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19bc528">
+        <item key="0">
+         <hashref memory_address="0x19bc468">
+          <item key="areacode">914</item>
+          <item key="exchange">690</item>
+          <item key="fullphone">(914) 690-0072</item>
+          <item key="linenumber">0072</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="1">
+     <hashref memory_address="0x19c0f50">
+      <item key="address">
+       <hashref memory_address="0x19bc648">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">15 Oak St</item>
+        <item key="house">15</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4503</item>
+       </hashref>
+      </item>
+      <item key="displayname">Joseph Gioffre</item>
+      <item key="geodata">
+       <hashref memory_address="0x19bc768">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002319</item>
+        <item key="longitude">-73.668329</item>
+       </hashref>
+      </item>
+      <item key="house">15</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19c0e48">
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19bc960">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19bc7e0">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=15+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002319&amp;long=-73.668329&amp;name=Gioffre&amp;firstname=Joseph</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19bc840">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=1</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19bc8a0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=2&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19bc900">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=15+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002319&amp;long=-73.668329&amp;name=Gioffre&amp;firstname=Joseph&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19c0f08">
+        <item key="0">
+         <hashref memory_address="0x19c0e90">
+          <item key="firstname">Joseph</item>
+          <item key="lastname">Gioffre</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="2">
+     <hashref memory_address="0x19c16b8">
+      <item key="address">
+       <hashref memory_address="0x19c1010">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">16 Oak St</item>
+        <item key="house">16</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Piedad C Alvarez</item>
+      <item key="geodata">
+       <hashref memory_address="0x19c1130">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002443</item>
+        <item key="longitude">-73.668652</item>
+       </hashref>
+      </item>
+      <item key="house">16</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19c13b8">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19c1328">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19c11a8">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Alvarez&amp;firstname=Piedad+C</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19c1208">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=2</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19c1268">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=3&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19c12c8">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Alvarez&amp;firstname=Piedad+C&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19c1550">
+        <item key="0">
+         <hashref memory_address="0x19c1430">
+          <item key="firstname">Piedad</item>
+          <item key="lastname">Alvarez</item>
+          <item key="middlename">C</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19c14c0">
+          <item key="firstname">Simonilo</item>
+          <item key="lastname">Alvarez</item>
+          <item key="middlename">L</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19c1670">
+        <item key="0">
+         <hashref memory_address="0x19c15b0">
+          <item key="areacode">914</item>
+          <item key="exchange">934</item>
+          <item key="fullphone">(914) 934-0324</item>
+          <item key="linenumber">0324</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="3">
+     <hashref memory_address="0x19c1e38">
+      <item key="address">
+       <hashref memory_address="0x19c1790">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">16 Oak St</item>
+        <item key="house">16</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Simonilo L Alvarez</item>
+      <item key="geodata">
+       <hashref memory_address="0x19c18b0">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002443</item>
+        <item key="longitude">-73.668652</item>
+       </hashref>
+      </item>
+      <item key="house">16</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19c1b38">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19c1aa8">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19c1928">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Alvarez&amp;firstname=Simonilo+L</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19c1988">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=3</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19c19e8">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=4&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19c1a48">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Alvarez&amp;firstname=Simonilo+L&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19c1cd0">
+        <item key="0">
+         <hashref memory_address="0x19c1bb0">
+          <item key="firstname">Simonilo</item>
+          <item key="lastname">Alvarez</item>
+          <item key="middlename">L</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19c1c40">
+          <item key="firstname">Piedad</item>
+          <item key="lastname">Alvarez</item>
+          <item key="middlename">C</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19c1df0">
+        <item key="0">
+         <hashref memory_address="0x19c1d30">
+          <item key="areacode">914</item>
+          <item key="exchange">934</item>
+          <item key="fullphone">(914) 934-0324</item>
+          <item key="linenumber">0324</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="4">
+     <hashref memory_address="0x19c24f8">
+      <item key="address">
+       <hashref memory_address="0x19c1f10">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">16 Oak St</item>
+        <item key="house">16</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Milton Cardenas</item>
+      <item key="geodata">
+       <hashref memory_address="0x19c2030">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002443</item>
+        <item key="longitude">-73.668652</item>
+       </hashref>
+      </item>
+      <item key="house">16</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19c22b8">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19c2228">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19c20a8">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Cardenas&amp;firstname=Milton</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19c2108">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=4</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19c2168">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=5&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19c21c8">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=16+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002443&amp;long=-73.668652&amp;name=Cardenas&amp;firstname=Milton&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19c23a8">
+        <item key="0">
+         <hashref memory_address="0x19c2330">
+          <item key="firstname">Milton</item>
+          <item key="lastname">Cardenas</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19c24b0">
+        <item key="0">
+         <hashref memory_address="0x19c23f0">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-1485</item>
+          <item key="linenumber">1485</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="5">
+     <hashref memory_address="0x19c2bd0">
+      <item key="address">
+       <hashref memory_address="0x19c25d0">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">20 Oak St</item>
+        <item key="house">20</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Dominick J Ranien</item>
+      <item key="geodata">
+       <hashref memory_address="0x19c26f0">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002322</item>
+        <item key="longitude">-73.668719</item>
+       </hashref>
+      </item>
+      <item key="house">20</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19c2978">
+        <item key="lastvalidated">08/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19c28e8">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19c2768">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=20+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002322&amp;long=-73.668719&amp;name=Ranien&amp;firstname=Dominick+J</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19c27c8">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=5</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19c2828">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=6&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19c2888">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=20+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002322&amp;long=-73.668719&amp;name=Ranien&amp;firstname=Dominick+J&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19c2a80">
+        <item key="0">
+         <hashref memory_address="0x19c29f0">
+          <item key="firstname">Dominick</item>
+          <item key="lastname">Ranien</item>
+          <item key="middlename">J</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19c2b88">
+        <item key="0">
+         <hashref memory_address="0x19c2ac8">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-9212</item>
+          <item key="linenumber">9212</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="6">
+     <hashref memory_address="0x19ce290">
+      <item key="address">
+       <hashref memory_address="0x19c2ca8">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">21 Oak St</item>
+        <item key="house">21</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6515</item>
+       </hashref>
+      </item>
+      <item key="displayname">Maria D Miranda</item>
+      <item key="geodata">
+       <hashref memory_address="0x19cdd20">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002142</item>
+        <item key="longitude">-73.668427</item>
+       </hashref>
+      </item>
+      <item key="house">21</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19cdfa8">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19cdf18">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19cdd98">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=21+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Miranda&amp;firstname=Maria+D</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19cddf8">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=6</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19cde58">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=7&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19cdeb8">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=21+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Miranda&amp;firstname=Maria+D&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19ce128">
+        <item key="0">
+         <hashref memory_address="0x19ce020">
+          <item key="firstname">Maria</item>
+          <item key="lastname">Miranda</item>
+          <item key="middlename">D</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19ce0b0">
+          <item key="firstname">Ramos</item>
+          <item key="lastname">Miranda</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19ce248">
+        <item key="0">
+         <hashref memory_address="0x19ce188">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-3641</item>
+          <item key="linenumber">3641</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="7">
+     <hashref memory_address="0x19ce9f8">
+      <item key="address">
+       <hashref memory_address="0x19ce368">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">21 Oak St</item>
+        <item key="house">21</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6515</item>
+       </hashref>
+      </item>
+      <item key="displayname">Ramos Miranda</item>
+      <item key="geodata">
+       <hashref memory_address="0x19ce488">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002142</item>
+        <item key="longitude">-73.668427</item>
+       </hashref>
+      </item>
+      <item key="house">21</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19ce710">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19ce680">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19ce500">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=21+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Miranda&amp;firstname=Ramos</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19ce560">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=7</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19ce5c0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=8&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19ce620">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=21+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Miranda&amp;firstname=Ramos&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19ce890">
+        <item key="0">
+         <hashref memory_address="0x19ce788">
+          <item key="firstname">Ramos</item>
+          <item key="lastname">Miranda</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19ce800">
+          <item key="firstname">Maria</item>
+          <item key="lastname">Miranda</item>
+          <item key="middlename">D</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19ce9b0">
+        <item key="0">
+         <hashref memory_address="0x19ce8f0">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-3641</item>
+          <item key="linenumber">3641</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="8">
+     <hashref memory_address="0x19d2220">
+      <item key="address">
+       <hashref memory_address="0x19cead0">
+        <item key="aptnumber">1</item>
+        <item key="apttype">Apt</item>
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">21 Oak St</item>
+        <item key="house">21</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6514</item>
+       </hashref>
+      </item>
+      <item key="displayname">Luis Deleg</item>
+      <item key="geodata">
+       <hashref memory_address="0x19cec20">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002142</item>
+        <item key="longitude">-73.668427</item>
+       </hashref>
+      </item>
+      <item key="house">21</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19d1fe0">
+        <item key="lastvalidated">08/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19d1f50">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19cec98">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=21+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Deleg&amp;firstname=Luis</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19d1e30">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=8</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19d1e90">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=9&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19d1ef0">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=21+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002142&amp;long=-73.668427&amp;name=Deleg&amp;firstname=Luis&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19d20d0">
+        <item key="0">
+         <hashref memory_address="0x19d2058">
+          <item key="firstname">Luis</item>
+          <item key="lastname">Deleg</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19d21d8">
+        <item key="0">
+         <hashref memory_address="0x19d2118">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-0632</item>
+          <item key="linenumber">0632</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="9">
+     <hashref memory_address="0x19d2970">
+      <item key="address">
+       <hashref memory_address="0x19d22f8">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">22 Oak St</item>
+        <item key="house">22</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Eduardo Cardenas</item>
+      <item key="geodata">
+       <hashref memory_address="0x19d2418">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002262</item>
+        <item key="longitude">-73.668752</item>
+       </hashref>
+      </item>
+      <item key="house">22</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19d26a0">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19d2610">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19d2490">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Cardenas&amp;firstname=Eduardo</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19d24f0">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=9</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19d2550">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=10&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19d25b0">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Cardenas&amp;firstname=Eduardo&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19d2808">
+        <item key="0">
+         <hashref memory_address="0x19d2718">
+          <item key="firstname">Eduardo</item>
+          <item key="lastname">Cardenas</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19d2790">
+          <item key="firstname">Isaias</item>
+          <item key="lastname">Cardenas</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19d2928">
+        <item key="0">
+         <hashref memory_address="0x19d2868">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-3286</item>
+          <item key="linenumber">3286</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="10">
+     <hashref memory_address="0x19d5220">
+      <item key="address">
+       <hashref memory_address="0x19d2a48">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">22 Oak St</item>
+        <item key="house">22</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Isaias Cardenas</item>
+      <item key="geodata">
+       <hashref memory_address="0x19d2b68">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002262</item>
+        <item key="longitude">-73.668752</item>
+       </hashref>
+      </item>
+      <item key="house">22</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19d2df0">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19d2d60">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19d2be0">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Cardenas&amp;firstname=Isaias+Jr</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19d2c40">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=10</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19d2ca0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=11&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19d2d00">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Cardenas&amp;firstname=Isaias+Jr&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19d50b8">
+        <item key="0">
+         <hashref memory_address="0x19d4fb0">
+          <item key="firstname">Isaias</item>
+          <item key="lastname">Cardenas</item>
+          <item key="rank">primary</item>
+          <item key="suffix">Jr</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19d5040">
+          <item key="firstname">Eduardo</item>
+          <item key="lastname">Cardenas</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19d51d8">
+        <item key="0">
+         <hashref memory_address="0x19d5118">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-3286</item>
+          <item key="linenumber">3286</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="11">
+     <hashref memory_address="0x19d5a18">
+      <item key="address">
+       <hashref memory_address="0x19d52f8">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">22 Oak St</item>
+        <item key="house">22</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Angeline Storino</item>
+      <item key="geodata">
+       <hashref memory_address="0x19d5418">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002262</item>
+        <item key="longitude">-73.668752</item>
+       </hashref>
+      </item>
+      <item key="house">22</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19d56a0">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19d5610">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19d5490">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=Angeline</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19d54f0">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=11</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19d5550">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=12&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19d55b0">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=Angeline&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19d5898">
+        <item key="0">
+         <hashref memory_address="0x19d5718">
+          <item key="firstname">Angeline</item>
+          <item key="lastname">Storino</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19d5790">
+          <item key="firstname">Gianpalo</item>
+          <item key="lastname">Storino</item>
+          <item key="middlename">T</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+        <item key="2">
+         <hashref memory_address="0x19d5820">
+          <item key="firstname">John</item>
+          <item key="lastname">Storino</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19d59d0">
+        <item key="0">
+         <hashref memory_address="0x19d5910">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-8353</item>
+          <item key="linenumber">8353</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="12">
+     <hashref memory_address="0x19da270">
+      <item key="address">
+       <hashref memory_address="0x19d5af0">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">22 Oak St</item>
+        <item key="house">22</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">Gianpalo T Storino</item>
+      <item key="geodata">
+       <hashref memory_address="0x19d5c10">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002262</item>
+        <item key="longitude">-73.668752</item>
+       </hashref>
+      </item>
+      <item key="house">22</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19d5e98">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19d5e08">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19d5c88">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=Gianpalo+T</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19d5ce8">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=12</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19d5d48">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=13&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19d5da8">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=Gianpalo+T&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19da0f0">
+        <item key="0">
+         <hashref memory_address="0x19d5f10">
+          <item key="firstname">Gianpalo</item>
+          <item key="lastname">Storino</item>
+          <item key="middlename">T</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19d9fe8">
+          <item key="firstname">John</item>
+          <item key="lastname">Storino</item>
+          <item key="middlename">T</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+        <item key="2">
+         <hashref memory_address="0x19da078">
+          <item key="firstname">Angeline</item>
+          <item key="lastname">Storino</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19da228">
+        <item key="0">
+         <hashref memory_address="0x19da168">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-8353</item>
+          <item key="linenumber">8353</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="13">
+     <hashref memory_address="0x19daa80">
+      <item key="address">
+       <hashref memory_address="0x19da348">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">22 Oak St</item>
+        <item key="house">22</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4504</item>
+       </hashref>
+      </item>
+      <item key="displayname">John T Storino</item>
+      <item key="geodata">
+       <hashref memory_address="0x19da468">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002262</item>
+        <item key="longitude">-73.668752</item>
+       </hashref>
+      </item>
+      <item key="house">22</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19da6f0">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19da660">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19da4e0">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=John+T</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19da540">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=13</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19da5a0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=14&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19da600">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=22+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002262&amp;long=-73.668752&amp;name=Storino&amp;firstname=John+T&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19da900">
+        <item key="0">
+         <hashref memory_address="0x19da768">
+          <item key="firstname">John</item>
+          <item key="lastname">Storino</item>
+          <item key="middlename">T</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19da7f8">
+          <item key="firstname">Gianpalo</item>
+          <item key="lastname">Storino</item>
+          <item key="middlename">T</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+        <item key="2">
+         <hashref memory_address="0x19da888">
+          <item key="firstname">Angeline</item>
+          <item key="lastname">Storino</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19daa38">
+        <item key="0">
+         <hashref memory_address="0x19da978">
+          <item key="areacode">914</item>
+          <item key="exchange">937</item>
+          <item key="fullphone">(914) 937-8353</item>
+          <item key="linenumber">8353</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="14">
+     <hashref memory_address="0x19de5c0">
+      <item key="address">
+       <hashref memory_address="0x19dab58">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">25 Oak St</item>
+        <item key="house">25</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">4503</item>
+       </hashref>
+      </item>
+      <item key="displayname">Robin N Grose</item>
+      <item key="geodata">
+       <hashref memory_address="0x19dac78">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.002024</item>
+        <item key="longitude">-73.668493</item>
+       </hashref>
+      </item>
+      <item key="house">25</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19daf00">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19dae70">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19dacf0">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=25+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002024&amp;long=-73.668493&amp;name=Grose&amp;firstname=Robin+N</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19dad50">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=14</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19dadb0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=15&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19dae10">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=25+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.002024&amp;long=-73.668493&amp;name=Grose&amp;firstname=Robin+N&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19de470">
+        <item key="0">
+         <hashref memory_address="0x19de3e0">
+          <item key="firstname">Robin</item>
+          <item key="lastname">Grose</item>
+          <item key="middlename">N</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19de578">
+        <item key="0">
+         <hashref memory_address="0x19de4b8">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-3571</item>
+          <item key="linenumber">3571</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="15">
+     <hashref memory_address="0x19dec80">
+      <item key="address">
+       <hashref memory_address="0x19de698">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">31 Oak St</item>
+        <item key="house">31</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6513</item>
+       </hashref>
+      </item>
+      <item key="displayname">Rosendo Naula</item>
+      <item key="geodata">
+       <hashref memory_address="0x19de7b8">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.001846</item>
+        <item key="longitude">-73.668591</item>
+       </hashref>
+      </item>
+      <item key="house">31</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19dea40">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19de9b0">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19de830">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Naula&amp;firstname=Rosendo</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19de890">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=15</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19de8f0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=16&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19de950">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Naula&amp;firstname=Rosendo&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19deb30">
+        <item key="0">
+         <hashref memory_address="0x19deab8">
+          <item key="firstname">Rosendo</item>
+          <item key="lastname">Naula</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19dec38">
+        <item key="0">
+         <hashref memory_address="0x19deb78">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-2350</item>
+          <item key="linenumber">2350</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="16">
+     <hashref memory_address="0x19df340">
+      <item key="address">
+       <hashref memory_address="0x19ded58">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">31 Oak St</item>
+        <item key="house">31</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6513</item>
+       </hashref>
+      </item>
+      <item key="displayname">Mario Tafolla</item>
+      <item key="geodata">
+       <hashref memory_address="0x19dee78">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.001846</item>
+        <item key="longitude">-73.668591</item>
+       </hashref>
+      </item>
+      <item key="house">31</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19df100">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19df070">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19deef0">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Tafolla&amp;firstname=Mario</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19def50">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=16</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19defb0">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=17&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19df010">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Tafolla&amp;firstname=Mario&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19df1f0">
+        <item key="0">
+         <hashref memory_address="0x19df178">
+          <item key="firstname">Mario</item>
+          <item key="lastname">Tafolla</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19df2f8">
+        <item key="0">
+         <hashref memory_address="0x19df238">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-0528</item>
+          <item key="linenumber">0528</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="17">
+     <hashref memory_address="0x19e39b0">
+      <item key="address">
+       <hashref memory_address="0x19e33b0">
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">31 Oak St</item>
+        <item key="house">31</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6513</item>
+       </hashref>
+      </item>
+      <item key="displayname">Martha E Guerra</item>
+      <item key="geodata">
+       <hashref memory_address="0x19e34d0">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.001846</item>
+        <item key="longitude">-73.668591</item>
+       </hashref>
+      </item>
+      <item key="house">31</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19e3758">
+        <item key="lastvalidated">08/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19e36c8">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19e3548">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Guerra&amp;firstname=Martha+E</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19e35a8">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=17</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19e3608">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=18&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19e3668">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=31+Oak+St&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001846&amp;long=-73.668591&amp;name=Guerra&amp;firstname=Martha+E&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19e3860">
+        <item key="0">
+         <hashref memory_address="0x19e37d0">
+          <item key="firstname">Martha</item>
+          <item key="lastname">Guerra</item>
+          <item key="middlename">E</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19e3968">
+        <item key="0">
+         <hashref memory_address="0x19e38a8">
+          <item key="areacode">914</item>
+          <item key="exchange">939</item>
+          <item key="fullphone">(914) 939-2482</item>
+          <item key="linenumber">2482</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="18">
+     <hashref memory_address="0x19e4130">
+      <item key="address">
+       <hashref memory_address="0x19e3a88">
+        <item key="aptnumber">1</item>
+        <item key="apttype">Apt</item>
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">33 Oak St</item>
+        <item key="house">33</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6505</item>
+       </hashref>
+      </item>
+      <item key="displayname">Fidencio Lazaro</item>
+      <item key="geodata">
+       <hashref memory_address="0x19e3bd8">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.001787</item>
+        <item key="longitude">-73.668623</item>
+       </hashref>
+      </item>
+      <item key="house">33</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19e3e60">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19e3dd0">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19e3c50">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=33+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001787&amp;long=-73.668623&amp;name=Lazaro&amp;firstname=Fidencio</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19e3cb0">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=18</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19e3d10">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=19&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19e3d70">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=33+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001787&amp;long=-73.668623&amp;name=Lazaro&amp;firstname=Fidencio&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19e3fc8">
+        <item key="0">
+         <hashref memory_address="0x19e3ed8">
+          <item key="firstname">Fidencio</item>
+          <item key="lastname">Lazaro</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19e3f50">
+          <item key="firstname">Maria</item>
+          <item key="lastname">Lazaro</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19e40e8">
+        <item key="0">
+         <hashref memory_address="0x19e4028">
+          <item key="areacode">914</item>
+          <item key="exchange">935</item>
+          <item key="fullphone">(914) 935-0982</item>
+          <item key="linenumber">0982</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+    <item key="19">
+     <hashref memory_address="0x19e8908">
+      <item key="address">
+       <hashref memory_address="0x19e4208">
+        <item key="aptnumber">1</item>
+        <item key="apttype">Apt</item>
+        <item key="city">Port Chester</item>
+        <item key="country">US</item>
+        <item key="deliverable">true</item>
+        <item key="fullstreet">33 Oak St</item>
+        <item key="house">33</item>
+        <item key="state">NY</item>
+        <item key="street">Oak St</item>
+        <item key="streettype">St</item>
+        <item key="zip">10573</item>
+        <item key="zip4">6505</item>
+       </hashref>
+      </item>
+      <item key="displayname">Maria Lazaro</item>
+      <item key="geodata">
+       <hashref memory_address="0x19e83b0">
+        <item key="geoprecision">2</item>
+        <item key="latitude">41.001787</item>
+        <item key="longitude">-73.668623</item>
+       </hashref>
+      </item>
+      <item key="house">33</item>
+      <item key="listingmeta">
+       <hashref memory_address="0x19e8638">
+        <item key="lastvalidated">04/2009</item>
+        <item key="moreinfolinks">
+         <hashref memory_address="0x19e85a8">
+          <item key="drivingdirections">
+           <hashref memory_address="0x19e8428">
+            <item key="linktext">Driving Directions</item>
+            <item key="url">http://www.whitepages.com/16176/track/10216/map_provider?=&amp;show_form=true&amp;full_address=33+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001787&amp;long=-73.668623&amp;name=Lazaro&amp;firstname=Maria</item>
+           </hashref>
+          </item>
+          <item key="findneighbors">
+           <hashref memory_address="0x19e8488">
+            <item key="linktext">Find Neighbors</item>
+            <item key="url">http://www.whitepages.com/16176/track/10214/search/FindNeighbors?addr_research=1&amp;tmpl=search_research_neighbors&amp;search_id=65311320984309038412&amp;rarl=&amp;element_id=19</item>
+           </hashref>
+          </item>
+          <item key="viewdetails">
+           <hashref memory_address="0x19e84e8">
+            <item key="linktext">View Listing Detail</item>
+            <item key="url">http://www.whitepages.com/16176/track/10215/search/Replay?search_id=65311320984309038412&amp;lower=20&amp;more_info=1</item>
+           </hashref>
+          </item>
+          <item key="viewmap">
+           <hashref memory_address="0x19e8548">
+            <item key="linktext">View Map</item>
+            <item key="url">http://www.whitepages.com/16176/track/10213/map_provider?full_address=33+Oak+St%2C+Apt+1&amp;city=Port+Chester&amp;state=NY&amp;zip=10573&amp;country=US&amp;lat=41.001787&amp;long=-73.668623&amp;name=Lazaro&amp;firstname=Maria&amp;show_form=false</item>
+           </hashref>
+          </item>
+         </hashref>
+        </item>
+        <item key="type">home</item>
+       </hashref>
+      </item>
+      <item key="people">
+       <arrayref memory_address="0x19e87a0">
+        <item key="0">
+         <hashref memory_address="0x19e86b0">
+          <item key="firstname">Maria</item>
+          <item key="lastname">Lazaro</item>
+          <item key="rank">primary</item>
+         </hashref>
+        </item>
+        <item key="1">
+         <hashref memory_address="0x19e8728">
+          <item key="firstname">Fidencio</item>
+          <item key="lastname">Lazaro</item>
+          <item key="rank">secondary</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+      <item key="phonenumbers">
+       <arrayref memory_address="0x19e88c0">
+        <item key="0">
+         <hashref memory_address="0x19e8800">
+          <item key="areacode">914</item>
+          <item key="exchange">935</item>
+          <item key="fullphone">(914) 935-0982</item>
+          <item key="linenumber">0982</item>
+          <item key="rank">primary</item>
+          <item key="type">home</item>
+         </hashref>
+        </item>
+       </arrayref>
+      </item>
+     </hashref>
+    </item>
+   </arrayref>
+  </item>
+  <item key="meta">
+   <hashref memory_address="0x19e8ef0">
+    <item key="apiversion">1.0</item>
+    <item key="linkexpiration">2009-11-05</item>
+    <item key="recordrange">
+     <hashref memory_address="0x19e8bf0">
+      <item key="firstrecord">1</item>
+      <item key="lastrecord">20</item>
+      <item key="totalavailable">198</item>
+     </hashref>
+    </item>
+    <item key="searchid">65311320984309038412</item>
+    <item key="searchlinks">
+     <hashref memory_address="0x19e8e48">
+      <item key="allresults">
+       <hashref memory_address="0x19e8c68">
+        <item key="linktext">View All Results</item>
+        <item key="url">http://www.whitepages.com/16176/track/10211/log_feature/listing_category/search/Replay/?search_id=65311320984309038412</item>
+       </hashref>
+      </item>
+      <item key="homepage">
+       <hashref memory_address="0x19e8cc8">
+        <item key="linktext">Whitepages.com</item>
+        <item key="url">http://www.whitepages.com/16176/</item>
+       </hashref>
+      </item>
+      <item key="mapallresults">
+       <hashref memory_address="0x19e8d28">
+        <item key="linktext">View Map of All Results</item>
+        <item key="url">http://www.whitepages.com/16176/track/10212/search/Replay?search_id=65311320984309038412&amp;lower=1&amp;view=map</item>
+       </hashref>
+      </item>
+      <item key="self">
+       <hashref memory_address="0x19e8d88">
+        <item key="linktext">Link to this api call</item>
+        <item key="url">http://api.whitepages.com/reverse_address/1.0?outputtype=Perl&amp;zip=10573&amp;street=oak+st.&amp;api_key=KEYMANUALLYREMOVED</item>
+       </hashref>
+      </item>
+      <item key="worklistings">
+       <hashref memory_address="0x19e8de8">
+        <item key="linktext">View Work Listings</item>
+        <item key="url">http://www.whitepages.com/16176/track/10209/log_feature/listing_category/search/Replay/?search_id=65311320984309038412&amp;view=&amp;listing_category=B</item>
+       </hashref>
+      </item>
+     </hashref>
+    </item>
+   </hashref>
+  </item>
+  <item key="result">
+   <hashref memory_address="0x19e8f98">
+    <item key="code">Found Data</item>
+    <item key="message"> </item>
+    <item key="type">success</item>
+   </hashref>
+  </item>
+ </hashref>
+</perldata>

@@ -1,0 +1,55 @@
+<?xml version="1.0"?>
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN"
+        "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en">
+<head>
+<title>Spanish Territory Scraper</title>
+	<style type="text/css">
+	<!--
+	body {background-image: url(/images/radbkgnd.gif); font-family: Verdana}
+	h1 { font-size: 20pt; background-color: #0050a0; color: White }
+	form {float: left; margin-right: 1em }
+	label {float: left; text-align: right; width: 10em; margin: 0.5em}
+	p {text-align: justify;}
+	-->
+	</style>
+</head>
+<body>
+
+<h1>Spanish Territory Scraper</h1>
+<form method="get" action="territory.cgi" enctype="application/x-www-form-urlencoded">
+<p><label for="house"> House (optional): </label><input type="text" name="house" id="house" size="10" maxlength="100" /></p>
+<p><label for="street"> Street: </label><input type="text" name="street" id="street"  size="10" maxlength="100" /></p>
+<p><label for="zip"> Zip: </label><input type="text" name="zip" id="zip"  size="10" maxlength="100" /> <input type="submit" Value="submit" /></p>
+</form> 
+<h3>
+Instructions
+</h3>
+
+<p>
+To use, input at least the street and Zip Code, otherwise nothing will be returned.
+You can omit the house number, in which case probably the lowest house number will be
+evaluated. If you specify the house number, you can do so using just a single digit,
+or a range. To specify a range of numbers, do so using brackets. For example, if you want
+to search between the addresses of 10 and 20, you would put the following into the house
+section:
+
+<code>
+[10-20]
+</code>
+</p>
+<p>
+If the tool is successful, it will send an Excel spreadsheet to your browser as a download.
+This will probably appear as a download dialog, but it depends partly on how your browser is
+set up. The spreadsheet will have two tabs; the first is a pretty version that contains only
+the residents who are likely spanish due to the spelling of thier last names. The second
+tab is some of the raw information that had to be evaluated and is useful for reference.
+</p>
+<p>
+If the tool is unsuccessful, well you'll probably see some error message or other junk in the
+Excel file. I really don't know. But I will say that if you don't see anything in the first
+tab, it could mean that the program worked, but didn't find any names that were likely spanish.
+</p>
+
+</body>
+</html>
