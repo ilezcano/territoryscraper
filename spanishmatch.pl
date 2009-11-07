@@ -23,9 +23,13 @@ my $spanmatch = Regexp::Assemble->new->add(qw(
 		gel$
 		illo$
 		rr
-		)
+		),
+		chr(0xF1),
+		chr(0xE9),
+		chr(0xE1),
+		chr(0xED),
+		chr(0xF3),
+		chr(0xFA),
 			)->re; #Last name endings
-
-#print $spanmatch->re;
 
 print "Match!\n" if ($ARGV[0] =~ /$spanmatch/);
