@@ -53,7 +53,7 @@ my $totalrecord = $metaref->{recordrange}->{totalavailable};
 
 print $q->header(-attachment => 'dl.xls',
                 -type =>'application/vnd.ms-excel',
-		-expires => 'now',
+		-expires => '+5m',
                 );
 
 my $xls = Spreadsheet::WriteExcel->new('-');
