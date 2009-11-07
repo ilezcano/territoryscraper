@@ -39,7 +39,9 @@ my $spanmatch = Regexp::Assemble->new->add(qw(
 
 my $r = my $c = my $rm = my $cm = 0; #Rows and Columns for the spreadsheet
 
-my $wp = new Net::WhitePages(TOKEN=>'INSERTYOURTOKENHERE');
+my $apitoken = do {local (@ARGV) = "apitoken"; <>};
+chomp $apitoken;
+my $wp = new Net::WhitePages(TOKEN=>$apitoken);
 
 my $res = $wp->reverse_address(house=>$house, zip=>$zip, street=>$street);
 my $listingref = $$res{listings};
