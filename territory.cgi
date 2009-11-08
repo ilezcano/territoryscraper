@@ -116,11 +116,11 @@ foreach my $listing (@$listingref)
 			);
 
 	# Populate "pretty" sheet
+	next unless ($lastname =~ /$spanmatch/); #Make sure it's spanish last name
+
 	next if (grep {$_ eq $fullphone} @phoneduplicates); # Don't print if the phone number is already there.
 	push (@phoneduplicates, $fullphone);
 	
-	next unless ($lastname =~ /$spanmatch/); #Make sure it's spanish last name
-
 	$sheet->write($r, $c++, $listing->{phonenumbers}[0]->{fullphone}, $mainformat);
 	$sheet->write($r, $c++, $listing->{displayname}, $mainformat);
 	$sheet->write($r, $c++, $fullstreet, $mainformat);
