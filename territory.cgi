@@ -17,6 +17,7 @@ my @phoneduplicates;
 my $spanmatch = Regexp::Assemble->new->add(qw(
 		os$
 		ez$
+		es$
 		cia$
 		era$
 		ano$
